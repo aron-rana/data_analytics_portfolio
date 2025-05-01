@@ -14,7 +14,7 @@ One year of basic and advanced data analytics certification through Google. Six 
     
    - Step 2: import dataset and perform exploratory data analysis
      - [Executive summary]
-     - [Project lab]
+     - [Project lab](https://github.com/aron-rana/data_analytics_portfolio/blob/be4f74d6cf7952a4ef76fbcec83da96a89bed527/jupyter_notebooks/Activity_Course%202%20Waze%20project%20lab%20(1).ipynb)
     
    - Step 3: create data visualizations
      - [Executive summary]
