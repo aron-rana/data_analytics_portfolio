@@ -35,6 +35,10 @@ One year of basic and advanced data analytics certification through Google. Six 
    - Step 7: build and tune a XGBoost model and identify most important features in predicting user churn
      - [Executive summary]
      - [Project lab]
+    
+1. Salifort motors employee turnover project using Jupyter notebook in VS Code
+   - [Executive summary]
+   - [Project lab]  
          
      
 ### Education	
