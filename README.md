@@ -31,14 +31,11 @@ One year of basic and advanced data analytics certification through Google. Six 
    - Step 6: build a random forest model and XGBoost model and choose a champion modeling technique
      - [Executive summary](https://github.com/aron-rana/data_analytics_portfolio/blob/470c0914390f51af244a684a2153f9b7dd422cd1/pdf_files/Course6_Activity%20Templates_%20Executive%20summary.pdf)
      - [Project lab](https://github.com/aron-rana/data_analytics_portfolio/blob/470c0914390f51af244a684a2153f9b7dd422cd1/jupyter_notebooks/Activity_Course%206%20Waze%20project%20lab.ipynb)
-        
-   - Step 7: build and tune a XGBoost model and identify most important features in predicting user churn
-     - [Executive summary]
-     - [Project lab]
     
 1. Salifort motors employee turnover project using Jupyter notebook in VS Code
-   - [Executive summary]
-   - [Project lab]  
+   - Build and tune a XGBoost model and identify most important features in predicting employee turnover
+     - [Executive summary]
+     - [Project lab]  
          
      
 ### Education	
