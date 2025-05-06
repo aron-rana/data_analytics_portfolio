@@ -34,8 +34,8 @@ One year of basic and advanced data analytics certification through Google. Six 
     
 1. Salifort motors employee turnover project using Jupyter notebook in VS Code
    - Build and tune a XGBoost model and identify most important features in predicting employee turnover
-     - [Executive summary]
-     - [Project lab]  
+     - [Executive summary](https://github.com/aron-rana/data_analytics_portfolio/blob/1f9d662e7a0525f366818cae600fd7272b84e471/pdf_files/Course7_Activity-Templates_-Executive-summaries_v2.pdf)
+     - [Project lab](https://github.com/aron-rana/data_analytics_portfolio/blob/1f9d662e7a0525f366818cae600fd7272b84e471/jupyter_notebooks/Activity_Course%207%20Salifort%20Motors%20project%20lab.ipynb)  
          
      
 ### Education	
