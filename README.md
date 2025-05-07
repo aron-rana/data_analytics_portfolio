@@ -9,39 +9,42 @@ Transitioning my comprehensive analytical problem-solving competencies, methodic
  ----------
  
 1. **Salifort motors employee turnover project using Jupyter notebook in VS Code**
-   - Build, tune and evaluate a XGBoost model and identify most important features in predicting employee turnover
+   - Build, tune and evaluate a XGBoost model to predict employee turnover and identify the most important features that lead to such with the end goal of minimizing the financial burden of finding and training new employees when existing employees leave the company.
      - [Executive summary](https://github.com/aron-rana/data_analytics_portfolio/blob/1f9d662e7a0525f366818cae600fd7272b84e471/pdf_files/Course7_Activity-Templates_-Executive-summaries_v2.pdf)
      - [Project lab](https://github.com/aron-rana/data_analytics_portfolio/blob/1f9d662e7a0525f366818cae600fd7272b84e471/jupyter_notebooks/Activity_Course%207%20Salifort%20Motors%20project%20lab.ipynb)  
 
 1. **Waze user churn project using Jupyter notebooks in VS Code**
-   - Step 1: create a project proposal
-     - [Project proposal](https://github.com/aron-rana/data_analytics_portfolio/blob/470c0914390f51af244a684a2153f9b7dd422cd1/pdf_files/Course1_Activity%20Template_%20Project%20Proposal.pdf)
+   - Build and evaluate a machine learning model to predict user churn and identify the factors that lead to such with the end goal of improving user retention and maximizing business growth.
+     - Step 1: create a project proposal
+       - [Project proposal](https://github.com/aron-rana/data_analytics_portfolio/blob/470c0914390f51af244a684a2153f9b7dd422cd1/pdf_files/Course1_Activity%20Template_%20Project%20Proposal.pdf)
     
-   - Step 2: import dataset and perform exploratory data analysis
-     - [Executive summary](https://github.com/aron-rana/data_analytics_portfolio/blob/470c0914390f51af244a684a2153f9b7dd422cd1/pdf_files/Course2_Activity%20Templates_%20Executive%20summary.pdf)
-     - [Project lab](https://github.com/aron-rana/data_analytics_portfolio/blob/be4f74d6cf7952a4ef76fbcec83da96a89bed527/jupyter_notebooks/Activity_Course%202%20Waze%20project%20lab%20(1).ipynb)
+     - Step 2: import dataset and perform exploratory data analysis
+       - [Executive summary](https://github.com/aron-rana/data_analytics_portfolio/blob/470c0914390f51af244a684a2153f9b7dd422cd1/pdf_files/Course2_Activity%20Templates_%20Executive%20summary.pdf)
+       - [Project lab](https://github.com/aron-rana/data_analytics_portfolio/blob/be4f74d6cf7952a4ef76fbcec83da96a89bed527/jupyter_notebooks/Activity_Course%202%20Waze%20project%20lab%20(1).ipynb)
     
-   - Step 3: create data visualizations
-     - [Executive summary](https://github.com/aron-rana/data_analytics_portfolio/blob/470c0914390f51af244a684a2153f9b7dd422cd1/pdf_files/Course3_Activity_%20Executive%20summary.pdf)
-     - [Project lab](https://github.com/aron-rana/data_analytics_portfolio/blob/470c0914390f51af244a684a2153f9b7dd422cd1/jupyter_notebooks/Activity_Course%203%20Waze%20project%20lab%20(1).ipynb)    
+     - Step 3: create data visualizations
+       - [Executive summary](https://github.com/aron-rana/data_analytics_portfolio/blob/470c0914390f51af244a684a2153f9b7dd422cd1/pdf_files/Course3_Activity_%20Executive%20summary.pdf)
+       - [Project lab](https://github.com/aron-rana/data_analytics_portfolio/blob/470c0914390f51af244a684a2153f9b7dd422cd1/jupyter_notebooks/Activity_Course%203%20Waze%20project%20lab%20(1).ipynb)    
   
-   - Step 4: conduct a two-sample hypothesis test
-     - [Executive summary](https://github.com/aron-rana/data_analytics_portfolio/blob/470c0914390f51af244a684a2153f9b7dd422cd1/pdf_files/Course4_Activity%20Templates_%20Executive%20summary.pdf)
-     - [Project lab](https://github.com/aron-rana/data_analytics_portfolio/blob/470c0914390f51af244a684a2153f9b7dd422cd1/jupyter_notebooks/Activity_Course%204%20Waze%20project%20lab.ipynb)
+     - Step 4: conduct a two-sample hypothesis test
+       - [Executive summary](https://github.com/aron-rana/data_analytics_portfolio/blob/470c0914390f51af244a684a2153f9b7dd422cd1/pdf_files/Course4_Activity%20Templates_%20Executive%20summary.pdf)
+       - [Project lab](https://github.com/aron-rana/data_analytics_portfolio/blob/470c0914390f51af244a684a2153f9b7dd422cd1/jupyter_notebooks/Activity_Course%204%20Waze%20project%20lab.ipynb)
           
-   - Step 5: build and evaluate a binomial logistic regression model
-     - [Executive summary](https://github.com/aron-rana/data_analytics_portfolio/blob/470c0914390f51af244a684a2153f9b7dd422cd1/pdf_files/Course5_Activity%20Templates_%20Executive%20summary.pdf)
-     - [Project lab](https://github.com/aron-rana/data_analytics_portfolio/blob/470c0914390f51af244a684a2153f9b7dd422cd1/jupyter_notebooks/Activity_Course%205%20Waze%20project%20lab.ipynb)
+     - Step 5: build and evaluate a binomial logistic regression model
+       - [Executive summary](https://github.com/aron-rana/data_analytics_portfolio/blob/470c0914390f51af244a684a2153f9b7dd422cd1/pdf_files/Course5_Activity%20Templates_%20Executive%20summary.pdf)
+       - [Project lab](https://github.com/aron-rana/data_analytics_portfolio/blob/470c0914390f51af244a684a2153f9b7dd422cd1/jupyter_notebooks/Activity_Course%205%20Waze%20project%20lab.ipynb)
           
-   - Step 6: build a random forest model and XGBoost model and choose a champion modeling technique
-     - [Executive summary](https://github.com/aron-rana/data_analytics_portfolio/blob/470c0914390f51af244a684a2153f9b7dd422cd1/pdf_files/Course6_Activity%20Templates_%20Executive%20summary.pdf)
-     - [Project lab](https://github.com/aron-rana/data_analytics_portfolio/blob/470c0914390f51af244a684a2153f9b7dd422cd1/jupyter_notebooks/Activity_Course%206%20Waze%20project%20lab.ipynb) 
+     - Step 6: build a random forest model and XGBoost model and choose a champion modeling technique
+       - [Executive summary](https://github.com/aron-rana/data_analytics_portfolio/blob/470c0914390f51af244a684a2153f9b7dd422cd1/pdf_files/Course6_Activity%20Templates_%20Executive%20summary.pdf)
+       - [Project lab](https://github.com/aron-rana/data_analytics_portfolio/blob/470c0914390f51af244a684a2153f9b7dd422cd1/jupyter_notebooks/Activity_Course%206%20Waze%20project%20lab.ipynb) 
 
 1. **Cyclistic case study using R Studio Desktop**
-   - [Project report](https://github.com/aron-rana/data_analytics_portfolio/blob/d2f6256355f762309c8c96b0a59793bf1b82caa0/pdf_files/google_data_analytics_cyclistic_casestudy_report.pdf)
+   - Analyse historic user data to identify how subscription members and casual riders differ in terms of product use with the end goal of creating appropriate marketing campaigns to increase annual profit.  
+     - [Project report](https://github.com/aron-rana/data_analytics_portfolio/blob/d2f6256355f762309c8c96b0a59793bf1b82caa0/pdf_files/google_data_analytics_cyclistic_casestudy_report.pdf)
   
 1. **Bellabeat case study using R Studio Desktop**
-   - [Project report](https://github.com/aron-rana/data_analytics_portfolio/blob/d2f6256355f762309c8c96b0a59793bf1b82caa0/pdf_files/google_data_analytics_bellabeat_casestudy_report.pdf)
+   - Analyzing historic smart device data from non-Bellabeat device users to understand how they currently use their devices with the end goal of creating appropriate marketing campaigns to increase company growth.  
+     - [Project report](https://github.com/aron-rana/data_analytics_portfolio/blob/d2f6256355f762309c8c96b0a59793bf1b82caa0/pdf_files/google_data_analytics_bellabeat_casestudy_report.pdf)
   
               
 ### Education	
