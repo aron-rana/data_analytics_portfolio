@@ -3,7 +3,7 @@
 
 ### PROFESSIONAL SUMMARY
  ----------
-Transitioning my comprehensive analytical problem-solving competencies, methodically developed through seven and a half years of medical and biological science training at the University of Pretoria, towards a career in data analytics. Recently completed one year of basic and advanced data analytics certification through Google to further develop my capabilities through Python-based course projects such as building an XGBoost model for employee turnover prediction. Motivated to use my growing proficiency in Python and machine learning models to analyse datasets, extract actionable insights, and contribute to data-driven decision making.
+Transitioning my comprehensive analytical problem-solving competencies, methodically developed through seven and a half years of medical and biological science training at the University of Pretoria, towards a career in data analytics. Recently completed one year of basic and advanced data analytics certification through Google to further develop my capabilities through Python-based course projects such as building an XGBoost model for employee turnover prediction. Motivated to use my growing proficiency in Python and machine learning models to analyse datasets, gather actionable insights, and contribute to data-driven decision making.
 
 ### PROJECTS
  ----------
@@ -53,9 +53,9 @@ Transitioning my comprehensive analytical problem-solving competencies, methodic
 - *Google AI Essentials Certificate*, **Coursera**
 - *Google Data Analytics Professional Certificate*, **Coursera**
 - *Bachelor of Medicine and Surgery*, **University of Pretoria**
-- *Bachelor of Science Biological Science*, **University of Pretoria**
+- *Bachelor of Science (Biological Science)*, **University of Pretoria**
 
   
 ### Skills	
  ----------
-Exploratory data analysis, Python programming language, machine learning models (building, tuning and evaluation), regression analysis (linear and logistic), data analytics project workflow, Tableau, R programming language (basic), statistics, spreadsheets, SQL (basic).
+Exploratory data analysis, Python programming language, machine learning models (building, tuning and evaluation), regression analysis (linear and logistic), data analysis project workflow, Tableau, R programming language (basic), statistics, spreadsheets, SQL (basic).
