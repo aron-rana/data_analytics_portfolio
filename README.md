@@ -3,8 +3,7 @@
 
 ### PROFESSIONAL SUMMARY
  ----------
-One year of basic and advanced data analytics certification through Google. Six and a half years of Medical training and one year Bachelor of Science in Biological Science training at the University of Pretoria. Eager to use my growing proficiency in Python and machine learning models to analyse datasets, extract actionable insights, and contribute to data-driven decision making.
-
+Leveraging comprehensive analytical problem-solving competencies, methodically developed through seven and a half years of medical and biological science training at the University of Pretoria, I am eager to apply this skill set to data science. Recently completed one year of basic and advanced data analytics certification through Google to further develop my capabilities through Python-based course projects such as building an XGBoost model for employee turnover prediction. Motivated to use my growing proficiency in Python and machine learning models to analyse datasets, extract actionable insights, and contribute to data-driven decision making.
 
 ### PROJECTS
  ----------
