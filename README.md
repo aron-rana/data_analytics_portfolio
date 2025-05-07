@@ -37,11 +37,11 @@ Transitioning my comprehensive analytical problem-solving competencies, methodic
      - [Executive summary](https://github.com/aron-rana/data_analytics_portfolio/blob/470c0914390f51af244a684a2153f9b7dd422cd1/pdf_files/Course6_Activity%20Templates_%20Executive%20summary.pdf)
      - [Project lab](https://github.com/aron-rana/data_analytics_portfolio/blob/470c0914390f51af244a684a2153f9b7dd422cd1/jupyter_notebooks/Activity_Course%206%20Waze%20project%20lab.ipynb) 
 
-1. **Cyclistic case study using R Studio**
-   - [Project report]
+1. **Cyclistic case study using R Studio Desktop**
+   - [Project report](https://github.com/aron-rana/data_analytics_portfolio/blob/d2f6256355f762309c8c96b0a59793bf1b82caa0/pdf_files/google_data_analytics_cyclistic_casestudy_report.pdf)
   
-1. **Bellabeat project using R Studio**
-   - [Project report]
+1. **Bellabeat case study using R Studio Desktop**
+   - [Project report](https://github.com/aron-rana/data_analytics_portfolio/blob/d2f6256355f762309c8c96b0a59793bf1b82caa0/pdf_files/google_data_analytics_bellabeat_casestudy_report.pdf)
   
               
 ### Education	
