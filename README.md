@@ -53,7 +53,7 @@ Transitioning my comprehensive analytical problem-solving competencies, methodic
 - *Google AI Essentials Certificate*, **Coursera**
 - *Google Data Analytics Professional Certificate*, **Coursera**
 - *Bachelor of Medicine and Surgery*, **University of Pretoria**
-- *Bachelor of Science (Biological Science)*, **University of Pretoria**
+- *Bachelor of Science (Biological Sciences)*, **University of Pretoria**
 
   
 ### Skills	
