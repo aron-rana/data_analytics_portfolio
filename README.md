@@ -9,12 +9,12 @@ Transitioning my comprehensive analytical problem-solving competencies, methodic
  ----------
  
 1. **Salifort motors employee turnover project using Jupyter notebook in VS Code**
-   - Build, tune and evaluate a XGBoost model to predict employee turnover and identify the most important features that lead to such with the end goal of minimizing the financial burden of finding and training new employees when existing employees leave the company.
+   - Build and refine an XGBoost model to predict employee turnover, highlight key factors, and reduce hiring and training costs.
      - [Executive summary](https://github.com/aron-rana/data_analytics_portfolio/blob/1f9d662e7a0525f366818cae600fd7272b84e471/pdf_files/Course7_Activity-Templates_-Executive-summaries_v2.pdf)
      - [Project lab](https://github.com/aron-rana/data_analytics_portfolio/blob/1f9d662e7a0525f366818cae600fd7272b84e471/jupyter_notebooks/Activity_Course%207%20Salifort%20Motors%20project%20lab.ipynb)  
 
 1. **Waze user churn project using Jupyter notebooks in VS Code**
-   - Build and evaluate a machine learning model to predict user churn and identify the factors that lead to such with the end goal of improving user retention and maximizing business growth.
+   - Build and evaluate a machine learning model to predict user churn, highlight key factors, and enhance user retention for business growth.
      - Step 1: create a project proposal
        - [Project proposal](https://github.com/aron-rana/data_analytics_portfolio/blob/470c0914390f51af244a684a2153f9b7dd422cd1/pdf_files/Course1_Activity%20Template_%20Project%20Proposal.pdf)
     
@@ -39,11 +39,11 @@ Transitioning my comprehensive analytical problem-solving competencies, methodic
        - [Project lab](https://github.com/aron-rana/data_analytics_portfolio/blob/470c0914390f51af244a684a2153f9b7dd422cd1/jupyter_notebooks/Activity_Course%206%20Waze%20project%20lab.ipynb) 
 
 1. **Cyclistic case study using R Studio Desktop**
-   - Analyse historic user data to identify how subscription members and casual riders differ in terms of product use with the end goal of creating appropriate marketing campaigns to increase annual profit.  
+   - Compare subscription members and casual riders using historical user data to tailor marketing strategies and boost annual profits. 
      - [Project report](https://github.com/aron-rana/data_analytics_portfolio/blob/d2f6256355f762309c8c96b0a59793bf1b82caa0/pdf_files/google_data_analytics_cyclistic_casestudy_report.pdf)
   
 1. **Bellabeat case study using R Studio Desktop**
-   - Analyzing historic smart device data from non-Bellabeat device users to understand how they currently use their devices with the end goal of creating appropriate marketing campaigns to increase company growth.  
+   - Analyse historic user data from non-Bellabeat device users to understand how they use their devices to tailor marketing strategies and boost company growth.  
      - [Project report](https://github.com/aron-rana/data_analytics_portfolio/blob/d2f6256355f762309c8c96b0a59793bf1b82caa0/pdf_files/google_data_analytics_bellabeat_casestudy_report.pdf)
   
               
