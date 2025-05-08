@@ -34,7 +34,7 @@ Transitioning my comprehensive analytical problem-solving competencies, methodic
        - [Executive summary](https://github.com/aron-rana/data_analytics_portfolio/blob/470c0914390f51af244a684a2153f9b7dd422cd1/pdf_files/Course5_Activity%20Templates_%20Executive%20summary.pdf)
        - [Project lab](https://github.com/aron-rana/data_analytics_portfolio/blob/470c0914390f51af244a684a2153f9b7dd422cd1/jupyter_notebooks/Activity_Course%205%20Waze%20project%20lab.ipynb)
           
-     - Step 6: build a random forest model and XGBoost model and choose a champion modeling technique
+     - Step 6: build a random forest model and XGBoost model then choose a champion modeling technique
        - [Executive summary](https://github.com/aron-rana/data_analytics_portfolio/blob/470c0914390f51af244a684a2153f9b7dd422cd1/pdf_files/Course6_Activity%20Templates_%20Executive%20summary.pdf)
        - [Project lab](https://github.com/aron-rana/data_analytics_portfolio/blob/470c0914390f51af244a684a2153f9b7dd422cd1/jupyter_notebooks/Activity_Course%206%20Waze%20project%20lab.ipynb) 
 
