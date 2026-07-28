@@ -1,5 +1,5 @@
 # Data Analytics Portfolio
-##### +258848184417&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;arnrana@hotmail.com&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;Maputo, Mozambique
+##### +917219222580&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;arnrana@hotmail.com&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;Pune, India
 
 ### PROFESSIONAL SUMMARY
  ----------
