@@ -3,7 +3,7 @@
 
 ### PROFESSIONAL SUMMARY
  ----------
-Transitioning my comprehensive analytical problem-solving competencies, methodically developed through seven and a half years of medical and biological science training at the University of Pretoria, towards a career in data analytics. Recently completed one year of basic and advanced data analytics certification through Google to further develop my capabilities through Python-based course projects such as building an XGBoost model for employee turnover prediction. Motivated to use my growing proficiency in Python and machine learning models to analyse datasets, gather actionable insights, and contribute to data-driven decision making.
+Medicine graduate with seven years of clinical and biological sciences training, applying structured analytical reasoning to data-driven problem-solving. Completed Google's Data Analytics and Advanced Data Analytics certifications, applying the skills through the applied projects below — covering data preparation and validation, exploratory data analysis, machine learning, and hypothesis testing in Python and R.
 
 ### PROJECTS
  ----------
@@ -47,15 +47,19 @@ Transitioning my comprehensive analytical problem-solving competencies, methodic
      - [Project report](https://github.com/aron-rana/data_analytics_portfolio/blob/d2f6256355f762309c8c96b0a59793bf1b82caa0/pdf_files/google_data_analytics_bellabeat_casestudy_report.pdf)
   
               
-### Education	
+### Education & Certifications
  ----------
-- *Google Advanced Data Analytics Certificate*, **Coursera**
-- *Google AI Essentials Certificate*, **Coursera**
-- *Google Data Analytics Professional Certificate*, **Coursera**
-- *Bachelor of Medicine and Surgery*, **University of Pretoria**
-- *Bachelor of Science (Biological Sciences)*, **University of Pretoria**
+
+#### Degrees
+* **Bachelor of Medicine and Surgery (MBChB)** | University of Pretoria *(2021)*
+* **Bachelor of Science (Biological Sciences)** | University of Pretoria *(2014)*
+
+#### Certifications
+* **Google Advanced Data Analytics Certificate** | Coursera *(2025)*
+* **Google AI Essentials Certificate** | Coursera *(2025)*
+* **Google Data Analytics Professional Certificate** | Coursera *(2024)*
 
   
 ### Skills	
  ----------
-Exploratory data analysis, Python programming language, machine learning models (building, tuning and evaluation), regression analysis (linear and logistic), data analysis project workflow, Tableau, R programming language (basic), statistics, spreadsheets, SQL (basic).
+Python (statsmodels, sklearn), SQL, R, Excel, Tableau, data cleaning and validation, exploratory data analysis, data visualisation, statistical analysis (including linear and logistic regression), machine learning, data ethics
