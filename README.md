@@ -51,13 +51,13 @@ Medicine graduate with seven years of clinical and biological sciences training,
  ----------
 
 #### Degrees
-* **Bachelor of Medicine and Surgery (MBChB)** | University of Pretoria *(2021)*
-* **Bachelor of Science (Biological Sciences)** | University of Pretoria *(2014)*
+ **Bachelor of Medicine and Surgery (MBChB)** | University of Pretoria *(2021)*
+ **Bachelor of Science (Biological Sciences)** | University of Pretoria *(2014)*
 
 #### Certifications
-* **Google Advanced Data Analytics Certificate** | Coursera *(2025)*
-* **Google AI Essentials Certificate** | Coursera *(2025)*
-* **Google Data Analytics Professional Certificate** | Coursera *(2024)*
+ **Google Advanced Data Analytics Certificate** | Coursera *(2025)*
+ **Google AI Essentials Certificate** | Coursera *(2025)*
+ **Google Data Analytics Professional Certificate** | Coursera *(2024)*
 
   
 ### Skills	
