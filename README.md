@@ -6,7 +6,7 @@
 
 ### PROFESSIONAL SUMMARY
 
-Medicine graduate with seven years of clinical and biological sciences training. Completed Google's Data Analytics and Advanced Data Analytics certifications; skills applied below through machine learning, exploratory data analysis, and hypothesis testing projects in Python and R, with a focus on healthcare analytics.
+Medicine graduate with seven years of clinical and biological sciences training. Completed Google's Data Analytics and Advanced Data Analytics certifications; skills applied below through machine learning, exploratory data analysis, hypothesis testing, and regression analysis projects in Python and R, covering staff turnover, user retention, and customer usage patterns.
 
 <br>
 
