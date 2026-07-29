@@ -1,6 +1,6 @@
 # Data Analytics Portfolio
 
-##### +917219222580 &nbsp;|&nbsp; arnrana@hotmail.com &nbsp;|&nbsp; Pune, India &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/aron-rana/)
+##### +917219222580 &nbsp;|&nbsp; arnrana@hotmail.com &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/aron-rana/) &nbsp;|&nbsp; Pune, India
 
 ---
 
